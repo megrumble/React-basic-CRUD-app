@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "new stream",
+      "id": 1
+    },
+    {
+      "title": "Another stream",
+      "description": "why not?",
+      "id": 2
+    },
+    {
+      "title": "Streaming component reuse",
+      "description": "this stream is about refactoring",
+      "id": 4
+    },
+    {
+      "title": "My New Stream",
+      "description": "Let's see if this works",
+      "userId": "113374951314351643380",
+      "id": 5
+    }
+  ]
+}
